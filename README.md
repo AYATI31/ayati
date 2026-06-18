@@ -137,3 +137,4 @@ Recommended next step: add a translation dictionary layer for route copy and cli
 ## Generated Image
 
 The homepage hero image was generated for this project and copied into `public/images/ayati-discover-hero.png`.
+staging test
